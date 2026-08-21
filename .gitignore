@@ -1,0 +1,9 @@
+# Kredensial -- JANGAN pernah di-commit
+.telegram.json
+*.token
+.env
+
+# Data & log (bisa dibangkitkan ulang)
+logs/
+data/*.csv
+data/journal/*.csv
